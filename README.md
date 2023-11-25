@@ -39,8 +39,6 @@
   <p align="center">
     A tool to cheat at the <a href="https://humanbenchmark.com/tests/reactiontime">Reaction Time test on HumanBenchmark.com</a>
     <br />
-    <a href="https://github.com/JMVRy/ReactionTime-HB/wiki/Documentation"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="#usage">View Demo</a>
     ·
@@ -127,9 +125,9 @@ This is a list on all the things you need, in order to run the software on your 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This project is primarily made for the [Reaction Time test on HumanBenchmark][trainer-hb], as well as being specific to my own monitor setup. If you've followed the Installation setup and there's no more problems, then it should just be plug-and-play. Build and run, and any pixel with that specific shade of blue (`#95c3e8`) will be clicked, as long as it's within the 1000x400 box that contains the targets.
+This project is primarily made for the [Reaction Time test on HumanBenchmark][trainer-hb], and is completely independent of anything, other than the Windows operating system. If you've followed the Installation setup, it should just be plug-and-play. Build and run, and any pixel under your mouse with that specific shade of green (`#4bdb6a`) will be clicked.
 
-_For more information, please refer to the [Documentation](https://github.com/JMVRy/ReactionTime-HB/wiki/Documentation)_
+This project uses a pervious version of [my Win32 input handling system](https://github.com/JMVRy/Win32-Input), so if you want more information about that, head to that repo instead.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,8 +185,7 @@ Project Link: [https://github.com/JMVRy/ReactionTime-HB](https://github.com/JMVR
 
 * [Microsoft for the Operating System](https://microsoft.com)
 * [Windows for the API](https://microsoft.com/en-us/windows)
-* [DarthAffe for the Screenshotting tool](https://github.com/DarthAffe)
-* [ShareX for telling me exact pixel locations to help with exactly where to screenshot](https://getsharex.com)
+* [HumanBenchmark for existing and allowing me to cheat at its tests](https://humanbenchmark.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
