@@ -208,7 +208,7 @@ Project Link: [https://github.com/JMVRy/ReactionTime-HB](https://github.com/JMVR
 [issues-shield]: https://img.shields.io/github/issues/JMVRy/ReactionTime-HB.svg?style=for-the-badge
 [issues-url]: https://github.com/JMVRy/ReactionTime-HB/issues
 [license-shield]: https://img.shields.io/github/license/JMVRy/ReactionTime-HB.svg?style=for-the-badge
-[license-url]: https://github.com/JMVRy/ReactionTime-HB/blob/master/LICENSE.txt
+[license-url]: https://github.com/JMVRy/ReactionTime-HB/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/johnmarc-everly-jr-882021225
 
